@@ -1,0 +1,29 @@
+h1 {
+  font-size: 32 px;
+  color: #334E58;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-size: 32 px;
+  color: #6B6D76;
+}
+
+body {
+  font-family: 'Domine', serif;
+  color: rgb(50,50,50);
+  font-size: 17 px;
+}
+
+a {
+  color: #334E58;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(51, 78, 88, 0.5);
+}
+
